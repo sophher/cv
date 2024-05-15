@@ -23,7 +23,6 @@ _Software and Cloud Platform Engineer based in Linz 🇦🇹_ <br>
 - I supported developers by maintaining and moving to an Artifactory server.
 - I improved and maintained legacy Jenkins servers by restructuring old pipelines to be able to support a master-slave architecture.
 - I leveraged Docker Buildkit to build and test our applications.
-
 - **_Technologies used:_** Azure DevOps, Docker, Git, SVN, Jenkins, Artifactory, SonarCube
   <br><br>
 
