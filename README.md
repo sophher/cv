@@ -1,8 +1,8 @@
-# Martin Zehethofer
+# Martin Zehethofer, MSc
 
 _Software and Cloud Platform Engineer based in Linz 🇦🇹_ <br>
 
-[Email](mailto:contact@sophher.com) / [GitHub](https://github.com/sophher/)
+✉️ [contact@sophher.com](mailto:contact@sophher.com) / 🐙 [github.com/sophher](https://github.com/sophher/)
 
 ## 👩🏼‍💻 Engineering Experience
 
@@ -34,7 +34,7 @@ _Software and Cloud Platform Engineer based in Linz 🇦🇹_ <br>
 - I built a monorepository with strict linting rules and automated tests to improve quality.
 - I supported junior developers by writing onboarding documentation, giving trainings, and reviewing pull requests.
 - With the help of our UX engineers, we implemented a living design system.
-- **_Partners:_** [Software Competence Center Hagenberg](https://www.scch.at/), [Tietoevry](https://www.tietoevry.com/) [Angular Architects](https://www.angulararchitects.io/)
+- **_Partners:_** [Software Competence Center Hagenberg](https://www.scch.at/), [Tietoevry](https://www.tietoevry.com/), [Angular Architects](https://www.angulararchitects.io/)
 - **_Technologies used:_** Angular, Typescript, RxJS, OPC-UA, Nrwl NX, Yarn, Storybook, Cypress, ESLint
   <br><br>
 
@@ -95,4 +95,4 @@ _Software and Cloud Platform Engineer based in Linz 🇦🇹_ <br>
 **Graduation Diploma** in Electronics with a specialization in Technical Informatics<br>
 [Higher Technical Education Institute](https://www.htl-steyr.ac.at/) - Steyr, Austria _(2005 - 2010)_
 
-- Diploma with "Guter Erfolg"
+- Diploma passed with merit (Guter Erfolg)
