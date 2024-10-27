@@ -1,6 +1,6 @@
 # Sophia Zehethofer, MSc
 
-_Software and Cloud Platform Engineer based in Linz 🇦🇹_ <br>
+_Software and Cloud Platform Engineer with more than a decade of industry experience - based in Linz 🇦🇹_ <br>
 
 ✉️ [contact@sophher.com](mailto:contact@sophher.com) / 🐙 [github.com/sophher](https://github.com/sophher/)
 
