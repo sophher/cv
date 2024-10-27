@@ -1,4 +1,4 @@
-# Martin Zehethofer, MSc
+# Sophia Zehethofer, MSc
 
 _Software and Cloud Platform Engineer based in Linz 🇦🇹_ <br>
 
