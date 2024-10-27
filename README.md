@@ -92,7 +92,7 @@ _Software and Cloud Platform Engineer based in Linz 🇦🇹_ <br>
 - Bachelor Thesis: Simulation of Evolutionary Processes
   <br><br>
 
-**Graduation Diploma** in Electronics with a specialization in Technical Informatics<br>
-[Higher Technical Education Institute](https://www.htl-steyr.ac.at/) - Steyr, Austria _(2005 - 2010)_
+**VET-Diploma** in Electronics Specializing in Technical Computer Seience<br>
+[Higher Federal Technical College](https://www.htl-steyr.ac.at/) - Steyr, Austria _(2005 - 2010)_
 
 - Diploma passed with merit (Guter Erfolg)
